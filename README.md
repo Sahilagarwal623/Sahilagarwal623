@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilagarwal623" alt="sahilagarwal623" /></a> </p>
 
+<h3 align="center">HacktoberFest Achievements</h3>
+
 [![An image of @sahilagarwal623's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sahilagarwal623)](https://holopin.io/@sahilagarwal623)
 
 - 🔭 I’m currently working on **Full Stack Food Delivery App**
