@@ -9,7 +9,7 @@
 
 [![An image of @sahilagarwal623's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sahilagarwal623)](https://holopin.io/@sahilagarwal623)
 
-- 🔭 I’m currently working on **Full Stack Food Delivery App**
+- 🔭 I’m currently working on **Full Stack Booking Platform App**
 
 - 🌱 I’m currently learning **NextJs**
 
