@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilagarwal623&label=Profile%20views&color=0e75b6&style=flat" alt="sahilagarwal623" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilagarwal623" alt="sahilagarwal623" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?sahilagarwal623=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="center">HacktoberFest Achievements</h3>
 
